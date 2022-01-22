@@ -1,0 +1,52 @@
+#main {
+  background-color: rgb(212, 212, 212);
+  margin: 1% 0.5%;
+}
+
+.titulo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  align-items: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  align-items: center;
+  text-align: center;
+  font-size: 0.9rem;
+  margin: 1%;
+}
+
+#tribute-info {
+  width: 39%;
+  margin: 0 auto;
+}
+
+h3 {
+  font-size: 19px;
+  text-align: center;
+  padding: 5%;
+}
+
+#citacao {
+  width: 39%;
+  margin: 50px auto;
+  text-align: justify;
+}
+
+footer {
+  width: 39%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
